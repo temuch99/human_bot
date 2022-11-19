@@ -1,3 +1,4 @@
 env/
 config/bot.ini
 tmp/
+alembic.ini
