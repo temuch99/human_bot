@@ -1,0 +1,4 @@
+env/*
+config/bot.ini
+tmp/*
+manage.py
